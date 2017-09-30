@@ -1,2 +1,13 @@
-# QueryList-Community
-There are QueryList plugins and QueryList-based projects from open-source contributors. 来自社区的QueryList插件和基于QueryList 的作品.
+# QueryList Community
+There are QueryList plugins and QueryList-based projects from open-source contributors，Welcome to [Pull request](CONTRIBUTING.md) to submit your own！
+
+## Plugins
+### Tool plugin
+- [jae-jae/QueryList-AbsoluteUrl](https://github.com/jae-jae/QueryList-AbsoluteUrl) : Converting relative urls to absolute.
+- [jae-jae/QueryList-CurlMulti](https://github.com/jae-jae/QueryList-CurlMulti) : Curl multi threading.
+
+### Rule plugin
+- None...
+
+##  Projects
+- None...

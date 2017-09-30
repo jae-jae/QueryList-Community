@@ -1,5 +1,5 @@
 # QueryList 社区力量
-这里有来自社区的QueryList插件和基于QueryList 的作品，欢迎[Pull request](CONTRIBUTING.md)贡献你的作品！
+这里有来自社区的QueryList插件和基于QueryList 的作品，欢迎[Pull request](CONTRIBUTING.md)添加你的作品！[贡献说明](CONTRIBUTING.md)
 
 ## 插件
 ### 功能型插件

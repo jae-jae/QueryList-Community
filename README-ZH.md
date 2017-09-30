@@ -1,3 +1,9 @@
+<p align="center">
+  <img width="150" src="https://github.com/jae-jae/QueryList/raw/master/logo.png" alt="QueryList">
+  <br>
+  <br>
+</p>
+
 # QueryList 社区力量
 这里有来自社区的QueryList插件和基于QueryList 的作品，欢迎[Pull request](CONTRIBUTING.md)添加你的作品！[贡献说明](CONTRIBUTING.md)
 
@@ -14,3 +20,7 @@
 基于QueryList的产品。
 
 - 待添加
+
+## 贡献者名单
+[![Jaeger](https://avatars2.githubusercontent.com/u/5620429?v=4&s=50)](https://github.com/jae-jae)
+[![LiesAuer](https://avatars2.githubusercontent.com/u/8676741?v=4&s=50)](https://github.com/liesauer)

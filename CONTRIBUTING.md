@@ -18,3 +18,5 @@
 **基于QueryList的产品:** 如果提交基于QueryList的产品，让更多的人发现你的产品，请明确在产品的`README`中说明有用到QueryList。
 
 本文档分中文版([README-ZH.md](README-ZH.md))和英文版([README.md](README.md)),你可以根据你的意愿编辑其中一份，或者两份都编辑。
+
+> QueryList插件开发指导:[https://doc.querylist.cc/site/index/doc/34](https://doc.querylist.cc/site/index/doc/34)

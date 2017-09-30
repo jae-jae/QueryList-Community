@@ -14,6 +14,7 @@ There are QueryList plugins and QueryList-based projects from open-source contri
 - [jae-jae/QueryList-AbsoluteUrl](https://github.com/jae-jae/QueryList-AbsoluteUrl) : Converting relative urls to absolute.
 - [jae-jae/QueryList-CurlMulti](https://github.com/jae-jae/QueryList-CurlMulti) : Curl multi threading.
 - [liesauer/QLPlugin-SimpleForm](https://github.com/liesauer/QLPlugin-SimpleForm) : Make form submission easier.
+- [jae-jae/QueryList-PhantomJS](https://github.com/jae-jae/QueryList-PhantomJS): Use PhantomJS to crawl Javascript dynamically rendered page.
 
 ### Rule plugin
 - None...

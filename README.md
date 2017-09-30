@@ -12,4 +12,6 @@ There are QueryList plugins and QueryList-based projects from open-source contri
 - None...
 
 ##  Projects
+Products of based on QueryList.
+
 - None...

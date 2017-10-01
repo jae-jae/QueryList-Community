@@ -17,7 +17,8 @@ There are QueryList plugins and QueryList-based projects from open-source contri
 - [jae-jae/QueryList-PhantomJS](https://github.com/jae-jae/QueryList-PhantomJS): Use PhantomJS to crawl Javascript dynamically rendered page.
 
 ### Rule plugin
-- None...
+- [jae-jae/QueryList-Rule-Google](https://github.com/jae-jae/QueryList-Rule-Google) : Google searcher.
+- [jae-jae/QueryList-Rule-Baidu](https://github.com/jae-jae/QueryList-Rule-Baidu) : Baidu searcher.
 
 ##  Projects
 Products of based on QueryList.

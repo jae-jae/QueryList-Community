@@ -7,6 +7,8 @@
 
 **Products of based on QueryList :** If you are submitting a QueryList based product to allow more people to find your product, make sure that you use QueryList in the `README` of your product.
 
+> [QueryList Plugin development guide](https://github.com/jae-jae/QueryList/wiki/Plugin-Development-Guide)
+
 # 贡献说明
 贡献流程:
 - Fork本项目

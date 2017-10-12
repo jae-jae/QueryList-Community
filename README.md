@@ -19,6 +19,7 @@ There are QueryList plugins and QueryList-based projects from open-source contri
 ### Rule plugin
 - [jae-jae/QueryList-Rule-Google](https://github.com/jae-jae/QueryList-Rule-Google) : Google searcher.
 - [jae-jae/QueryList-Rule-Baidu](https://github.com/jae-jae/QueryList-Rule-Baidu) : Baidu searcher.
+- [liesauer/QLPlugin-BingSearcher](https://github.com/liesauer/QLPlugin-BingSearcher) : Bing Searcher.
 
 ##  Projects
 Products of based on QueryList.

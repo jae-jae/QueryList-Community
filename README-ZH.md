@@ -17,6 +17,7 @@
 ### 规则型插件
 - [jae-jae/QueryList-Rule-Google](https://github.com/jae-jae/QueryList-Rule-Google) : 谷歌搜索引擎
 - [jae-jae/QueryList-Rule-Baidu](https://github.com/jae-jae/QueryList-Rule-Baidu) : 百度搜索引擎
+- [liesauer/QLPlugin-BingSearcher](https://github.com/liesauer/QLPlugin-BingSearcher) : 必应搜索引擎
 
 ##  产品
 基于QueryList的产品。

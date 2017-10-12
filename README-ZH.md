@@ -12,9 +12,11 @@
 - [jae-jae/QueryList-AbsoluteUrl](https://github.com/jae-jae/QueryList-AbsoluteUrl) : 转换URL相对路径到绝对路径
 - [jae-jae/QueryList-CurlMulti](https://github.com/jae-jae/QueryList-CurlMulti) : Curl多线程采集
 - [liesauer/QLPlugin-SimpleForm](https://github.com/liesauer/QLPlugin-SimpleForm) : 使表单提交更为简易
+- [jae-jae/QueryList-PhantomJS](https://github.com/jae-jae/QueryList-PhantomJS): 使用PhantomJS采集JavaScript动态渲染的页面
 
 ### 规则型插件
-- 待添加
+- [jae-jae/QueryList-Rule-Google](https://github.com/jae-jae/QueryList-Rule-Google) : 谷歌搜索引擎
+- [jae-jae/QueryList-Rule-Baidu](https://github.com/jae-jae/QueryList-Rule-Baidu) : 百度搜索引擎
 
 ##  产品
 基于QueryList的产品。

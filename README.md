@@ -15,6 +15,7 @@ There are QueryList plugins and QueryList-based projects from open-source contri
 - [jae-jae/QueryList-CurlMulti](https://github.com/jae-jae/QueryList-CurlMulti) : Curl multi threading.
 - [liesauer/QLPlugin-SimpleForm](https://github.com/liesauer/QLPlugin-SimpleForm) : Make form submission easier.
 - [jae-jae/QueryList-PhantomJS](https://github.com/jae-jae/QueryList-PhantomJS): Use PhantomJS to crawl Javascript dynamically rendered page.
+- [mountainguan/QLPlugin-DisguisePlugin](https://github.com/mountainguan/QLPlugin-DisguisePlugin): Make a disguise header for get/post request.
 
 ### Rule plugin
 - [jae-jae/QueryList-Rule-Google](https://github.com/jae-jae/QueryList-Rule-Google) : Google searcher.
@@ -29,3 +30,4 @@ Products of based on QueryList.
 ## Contributor list
 [![Jaeger](https://avatars2.githubusercontent.com/u/5620429?v=4&s=50)](https://github.com/jae-jae)
 [![LiesAuer](https://avatars2.githubusercontent.com/u/8676741?v=4&s=50)](https://github.com/liesauer)
+[![MountainGuan](https://avatars1.githubusercontent.com/u/2704026?s=460&v=4)](https://github.com/mountainguan)

@@ -28,4 +28,4 @@
 ## 贡献者名单
 [![Jaeger](https://avatars2.githubusercontent.com/u/5620429?v=4&s=50)](https://github.com/jae-jae)
 [![LiesAuer](https://avatars2.githubusercontent.com/u/8676741?v=4&s=50)](https://github.com/liesauer)
-[![MountainGuan](https://avatars1.githubusercontent.com/u/2704026?s=460&amp;v=4)](https://github.com/mountainguan)
+[![MountainGuan](https://avatars1.githubusercontent.com/u/2704026?s=50&amp;v=4)](https://github.com/mountainguan)

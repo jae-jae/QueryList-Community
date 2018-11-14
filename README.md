@@ -25,9 +25,12 @@ There are QueryList plugins and QueryList-based projects from open-source contri
 ##  Projects
 Products of based on QueryList.
 
-- None...
+- [slayerhover/pickupadvance](https://github.com/slayerhover/pickupadvance)：PHP spider, based on swoole and QueryList
+- [simon-8/story](https://github.com/simon-8/story)：Story website based on laravel, using QueryList to crawler content
 
 ## Contributor list
 [![Jaeger](https://avatars2.githubusercontent.com/u/5620429?v=4&s=50)](https://github.com/jae-jae)
 [![LiesAuer](https://avatars2.githubusercontent.com/u/8676741?v=4&s=50)](https://github.com/liesauer)
 [![MountainGuan](https://avatars1.githubusercontent.com/u/2704026?s=50&v=4)](https://github.com/mountainguan)
+[![Simon](https://avatars1.githubusercontent.com/u/11530513?s=50&amp;v=4)](https://github.com/simon-8)
+[![slayer.hover](https://avatars1.githubusercontent.com/u/17897732?s=50&amp;v=4)](https://github.com/slayerhover)

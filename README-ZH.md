@@ -23,9 +23,12 @@
 ##  产品
 基于QueryList的产品。
 
-- 待添加
+- [slayerhover/pickupadvance](https://github.com/slayerhover/pickupadvance)：PHP爬虫，基于swoole与QueryList
+- [simon-8/story](https://github.com/simon-8/story)：基于laravel的小说站，使用QueryList采集指定站点
 
 ## 贡献者名单
 [![Jaeger](https://avatars2.githubusercontent.com/u/5620429?v=4&s=50)](https://github.com/jae-jae)
 [![LiesAuer](https://avatars2.githubusercontent.com/u/8676741?v=4&s=50)](https://github.com/liesauer)
 [![MountainGuan](https://avatars1.githubusercontent.com/u/2704026?s=50&amp;v=4)](https://github.com/mountainguan)
+[![Simon](https://avatars1.githubusercontent.com/u/11530513?s=50&amp;v=4)](https://github.com/simon-8)
+[![slayer.hover](https://avatars1.githubusercontent.com/u/17897732?s=50&amp;v=4)](https://github.com/slayerhover)

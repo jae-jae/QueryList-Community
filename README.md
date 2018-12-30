@@ -15,7 +15,6 @@ There are QueryList plugins and QueryList-based projects from open-source contri
 - [jae-jae/QueryList-CurlMulti](https://github.com/jae-jae/QueryList-CurlMulti) : Curl multi threading.
 - [liesauer/QLPlugin-SimpleForm](https://github.com/liesauer/QLPlugin-SimpleForm) : Make form submission easier.
 - [jae-jae/QueryList-PhantomJS](https://github.com/jae-jae/QueryList-PhantomJS): Use PhantomJS to crawl Javascript dynamically rendered page.
-- [mountainguan/QLPlugin-DisguisePlugin](https://github.com/mountainguan/QLPlugin-DisguisePlugin): Make a disguise header for get/post request.
 
 ### Rule plugin
 - [jae-jae/QueryList-Rule-Google](https://github.com/jae-jae/QueryList-Rule-Google) : Google searcher.
@@ -27,6 +26,7 @@ Products of based on QueryList.
 
 - [slayerhover/pickupadvance](https://github.com/slayerhover/pickupadvance)：PHP spider, based on swoole and QueryList
 - [simon-8/story](https://github.com/simon-8/story)：Story website based on laravel, using QueryList to crawler content
+- [fbtopcn/fatratcollect](https://github.com/fbtopcn/fatratcollect)：Fatrat collect，wordPress Collection Plug - in
 
 ## Contributor list
 [![Jaeger](https://avatars2.githubusercontent.com/u/5620429?v=4&s=50)](https://github.com/jae-jae)
@@ -34,3 +34,4 @@ Products of based on QueryList.
 [![MountainGuan](https://avatars1.githubusercontent.com/u/2704026?s=50&v=4)](https://github.com/mountainguan)
 [![Simon](https://avatars1.githubusercontent.com/u/11530513?s=50&amp;v=4)](https://github.com/simon-8)
 [![slayer.hover](https://avatars1.githubusercontent.com/u/17897732?s=50&amp;v=4)](https://github.com/slayerhover)
+[![fubo](https://avatars1.githubusercontent.com/u/24408061?s=50&amp;v=4)](https://github.com/fbtopcn)

@@ -13,7 +13,6 @@
 - [jae-jae/QueryList-CurlMulti](https://github.com/jae-jae/QueryList-CurlMulti) : Curl多线程采集
 - [liesauer/QLPlugin-SimpleForm](https://github.com/liesauer/QLPlugin-SimpleForm) : 使表单提交更为简易
 - [jae-jae/QueryList-PhantomJS](https://github.com/jae-jae/QueryList-PhantomJS): 使用PhantomJS采集JavaScript动态渲染的页面
-- [mountainguan/QLPlugin-DisguisePlugin](https://github.com/mountainguan/QLPlugin-DisguisePlugin): 伪造headers的IP和UA信息
 
 ### 规则型插件
 - [jae-jae/QueryList-Rule-Google](https://github.com/jae-jae/QueryList-Rule-Google) : 谷歌搜索引擎
@@ -25,6 +24,7 @@
 
 - [slayerhover/pickupadvance](https://github.com/slayerhover/pickupadvance)：PHP爬虫，基于swoole与QueryList
 - [simon-8/story](https://github.com/simon-8/story)：基于laravel的小说站，使用QueryList采集指定站点
+- [fbtopcn/fatratcollect](https://github.com/fbtopcn/fatratcollect)：胖鼠采集，好用的wordpress采集插件
 
 ## 贡献者名单
 [![Jaeger](https://avatars2.githubusercontent.com/u/5620429?v=4&s=50)](https://github.com/jae-jae)
@@ -32,3 +32,4 @@
 [![MountainGuan](https://avatars1.githubusercontent.com/u/2704026?s=50&amp;v=4)](https://github.com/mountainguan)
 [![Simon](https://avatars1.githubusercontent.com/u/11530513?s=50&amp;v=4)](https://github.com/simon-8)
 [![slayer.hover](https://avatars1.githubusercontent.com/u/17897732?s=50&amp;v=4)](https://github.com/slayerhover)
+[![fubo](https://avatars1.githubusercontent.com/u/24408061?s=50&amp;v=4)](https://github.com/fbtopcn)

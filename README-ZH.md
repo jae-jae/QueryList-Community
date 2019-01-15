@@ -13,6 +13,7 @@
 - [jae-jae/QueryList-CurlMulti](https://github.com/jae-jae/QueryList-CurlMulti) : Curl多线程采集
 - [liesauer/QLPlugin-SimpleForm](https://github.com/liesauer/QLPlugin-SimpleForm) : 使表单提交更为简易
 - [jae-jae/QueryList-PhantomJS](https://github.com/jae-jae/QueryList-PhantomJS): 使用PhantomJS采集JavaScript动态渲染的页面
+- [jae-jae/QueryList-Puppeteer](https://github.com/jae-jae/QueryList-Puppeteer): Headless Chrome,可用于采集JavaScript动态渲染的页面
 
 ### 规则型插件
 - [jae-jae/QueryList-Rule-Google](https://github.com/jae-jae/QueryList-Rule-Google) : 谷歌搜索引擎

@@ -17,6 +17,7 @@ There are QueryList plugins and QueryList-based projects from open-source contri
 - [jae-jae/QueryList-PhantomJS](https://github.com/jae-jae/QueryList-PhantomJS): Use PhantomJS to crawl Javascript dynamically
 rendered page.
 - [jae-jae/QueryList-Puppeteer](https://github.com/jae-jae/QueryList-Puppeteer): Headless Chrome
+- [ahmard/queliwrap](https://github.com/ahmard/queliwrap): A wrapper around [Guzwrap](https://github.com/ahmard/guzwrap) and [QueryList](https://github.com/jae-jae/QueryList).
 
 ### Rule plugin
 - [jae-jae/QueryList-Rule-Google](https://github.com/jae-jae/QueryList-Rule-Google) : Google searcher.
@@ -29,6 +30,7 @@ Products of based on QueryList.
 - [slayerhover/pickupadvance](https://github.com/slayerhover/pickupadvance)：PHP spider, based on swoole and QueryList
 - [simon-8/story](https://github.com/simon-8/story)：Story website based on laravel, using QueryList to crawler content
 - [fbtopcn/fatratcollect](https://github.com/fbtopcn/fatratcollect)：Fatrat collect，wordPress Collection Plug - in
+- [ahmard/uticlass](https://github.com/ahmard/uticlass): This project help you extract download links from fzmovies, 480mkv, o2tvseries, mobiletvshows...
 
 ## Contributor list
 [![Jaeger](https://avatars2.githubusercontent.com/u/5620429?v=4&s=50)](https://github.com/jae-jae)
